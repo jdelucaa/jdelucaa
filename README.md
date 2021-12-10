@@ -6,7 +6,7 @@
 I am software engineer from Brazil. I am passionate about DevOps, Cloud and Testing. 
 I love contributing to inner and open source projects and love learning from the community.
 
-- 🔭 I’m currently working on exciting innovation projects in the healthcare industry
+- 🔭 I’m currently working on exciting and innovative projects in the healthcare industry
 - 🌱 I’m currently probably learning something cool
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: jdelucaa@gmail.com
